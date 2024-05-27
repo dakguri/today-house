@@ -2,11 +2,12 @@
 @import './constants/typography.scss';
 @import './constants/beackpoint';
 
-@import './base/fonts';
-@import './base/normalize';
-@import './base/reset.scss';
+// @import './base/fonts';
+// @import './base/normalize';
+// @import './base/reset.scss';
 
 @import './mixins/text-style';
 @import './mixins/responsive';
+@import './mixins/postions';
 
-@import './layouts/grids';
+// @import './layouts/grids';
